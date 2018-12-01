@@ -9,15 +9,26 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.0-alpha</Version>
+    <Version>1.0.0-alpha-1</Version>
     <Company>iLucy</Company>
     <Product>RestCall</Product>
-    <Authors>Ramkumar</Authors>
+    <Authors>iLucy</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Copyright>MIT License</Copyright>
     <Description>RestCall is to integrate with api calls easily</Description>
-    <NeutralLanguage>ar-OM</NeutralLanguage>
+    <NeutralLanguage>en-IN</NeutralLanguage>
     <PackageId>iLucy.RestCall_ilucy_ramkumar</PackageId>
+    <ApplicationIcon>procedure.ico</ApplicationIcon>
+    <PackageTags>Http,HttpClient,Rest Call,Core,Api,</PackageTags>
+    <AssemblyVersion>1.0.1.1</AssemblyVersion>
+    <FileVersion>1.0.1.1</FileVersion>
+    <PackageIconUrl>http://ilucy.in/images/lucy.JPG</PackageIconUrl>
+    <PackageLicenseUrl>http://ilucy.in/license.html</PackageLicenseUrl>
+    <PackageProjectUrl>http://ilucy.in/#activework</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lucy-i/iLucy.RestCall</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Initial Release (Dev In Progress)
+This is to make api call simple.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
