@@ -1,0 +1,11 @@
+Source/Tests/iLucy.RestCall.TestApi/bin/
+Source/Tests/iLucy.RestCall.TestApi/obj/
+Source/Tests/iLucy.RestCall.TestApiIntegration/bin/
+Source/Tests/iLucy.RestCall.TestApiIntegration/obj/
+Source/Tests/iLucy.RestCall.TestConsole/bin/
+Source/Tests/iLucy.RestCall.TestConsole/obj/
+Source/Tests/iLucy.RestCall.UnitTest/obj/
+Source/Tests/iLucy.TestMVC/bin/
+Source/Tests/iLucy.TestMVC/obj/
+Source/iLucy.RestCall/obj/
+Source/iLucy.RestCall/bin/

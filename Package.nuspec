@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>iLucy.RestCall</id>
+    <version>1.0.0-alpha</version>
+    <authors>Ramkumar Murugarasan</authors>
+    <owners>iLucy</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RestCall is to integrate with api calls easily</description>
+    <releaseNotes>Initial Release of the package</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>API Integration</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.6" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Source\iLucy.RestCall\bin\Release\netstandard2.0\iLucy.RestCall.dll" target="1.0.0-alpha\iLucy.RestCall.dll" />
+  </files>
+</package>

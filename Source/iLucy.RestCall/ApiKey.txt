@@ -1,0 +1,3 @@
+﻿oy2ndrcvjsutqooz5w2aw5upakqo3m5exkbd6jzvue5a2m
+
+nuget push iLucy.RestCall.1.0.0-alpha.nupkg oy2ndrcvjsutqooz5w2aw5upakqo3m5exkbd6jzvue5a2m -Source https://api.nuget.org/v3/index.json

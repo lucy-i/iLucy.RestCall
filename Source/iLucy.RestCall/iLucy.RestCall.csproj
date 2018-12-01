@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0-alpha</Version>
+    <Company>iLucy</Company>
+    <Product>RestCall</Product>
+    <Authors>Ramkumar</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>MIT License</Copyright>
+    <Description>RestCall is to integrate with api calls easily</Description>
+    <NeutralLanguage>ar-OM</NeutralLanguage>
+    <PackageId>iLucy.RestCall_ilucy_ramkumar</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.6" />
+  </ItemGroup>
+
+</Project>
